@@ -2,7 +2,7 @@
 <script>
 	const nav = [
 		{ name: 'Start', href: '#' },
-		{ name: 'Partner', href: '#partner' },
+		{ name: 'Partner', href: '/partner' },
 		{ name: 'Kanzlei', href: '#kanzlei' },
 		{ name: 'Leitbild', href: '#leitbild' }
 	];
