@@ -233,7 +233,7 @@
 			Der Brennpunkt für Ihren Anspruch an die Judikative befindet sich in perfekter Lage in West Vinewood!<br>
 			Wir legen viel Wert auf gute Anbindung an den lokalen ÖPNV und eine gute Erreichbarkeit, auch für Staatsdiener.<br>
 			Einen Einblick in unsere Niederlassung finden Sie 
-			<button class="btn-secondary" on:click={() => window.open('https://www.youtube.com/', '_blank')} style="margin-left:0.4em;">
+			<button class="btn-secondary" on:click={() => window.open('https://youtu.be/rHn0pKgGuDU?si=p8qdF_z3Up6CkYpL', '_blank')} style="margin-left:0.4em;">
 				hier
 			</button>.
 		</p>

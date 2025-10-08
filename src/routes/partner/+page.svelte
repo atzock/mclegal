@@ -167,7 +167,7 @@
 		<div class="partner-cards">
 					<div class="partner-card">
 						<img src="/mclegal-logo.png" alt="Logo" class="logo-bg" />
-						<img src="/matze-mclee.jpg" alt="Matze McLee" class="partner-img" on:error={(e) => e.target.style.display = 'none'} />
+						<img src="/user.png" alt="Matze McLee" class="partner-img" on:error={(e) => e.target.style.display = 'none'} />
 						<h3 style="margin-top:0; color:#1a2233;">Matze McLee</h3>
 						<div class="role">Senior Partner</div>
 						<div>Fachanwalt für Strafrecht, Zivilrecht, Medienrecht</div>
@@ -183,7 +183,7 @@
 					</div>
 					<div class="partner-card">
 						<img src="/mclegal-logo.png" alt="Logo" class="logo-bg" />
-						<img src="/tino-devries.jpg" alt="Tino de Vries" class="partner-img" on:error={(e) => e.target.style.display = 'none'} />
+						<img src="/user.png" alt="Tino de Vries" class="partner-img" on:error={(e) => e.target.style.display = 'none'} />
 						<h3 style="margin-top:0; color:#1a2233;">Tino de Vries</h3>
 						<div class="role">Junior Partner</div>
 						<div>Fachanwalt für Strafrecht, Arzthaftungsrecht</div>
@@ -199,8 +199,8 @@
 					</div>
 					<div class="partner-card">
 						<img src="/mclegal-logo.png" alt="Logo" class="logo-bg" />
-						<img src="/hannes-davis.jpg" alt="Hannes Davis" class="partner-img" on:error={(e) => e.target.style.display = 'none'} />
-						<h3 style="margin-top:0; color:#1a2233;">Hannes Davis</h3>
+						<img src="/user.png" alt="Hannes Davis" class="partner-img" on:error={(e) => e.target.style.display = 'none'} />
+						<h3 style="margin-top:0; color:#1a2233;">Niclas Davis</h3>
 						<div class="role">Junior Partner</div>
 						<div>Fachanwalt für Verkehrsrecht, Staatsrecht, Beamtenrecht</div>
 						<div style="margin:1.1rem 0 0.5rem 0; color:#444; font-size:1.07rem; text-align:center;">
@@ -210,9 +210,21 @@
 							<em>"Das Recht ist für die Menschen da."</em>
 						</div>
 						<div style="font-size:0.98rem; color:#1a2233; margin-bottom:0.2rem;">
-							<strong>Kontakt:</strong> hannes.davis@mclegal.com
+							<strong>Kontakt:</strong> niclas.davis@nyorcity.com
 						</div>
 					</div>
+
+					<div class="partner-card">
+						<img src="/mclegal-logo.png" alt="Logo" class="logo-bg" />
+						<img src="/user.png" alt="Rio Madri" class="partner-img" on:error={(e) => e.target.style.display = 'none'} />
+						<h3 style="margin-top:0; color:#1a2233;">Rio Madri</h3>
+						<div class="role">Fachangestellter</div>
+						<div>Security & Fachangestellter</div>
+						<div style="font-size:0.98rem; color:#1a2233; margin-bottom:0.2rem;">
+							<strong>Kontakt:</strong> rio.madri@mclegal.com
+						</div>
+					</div>
+
 					<div style="width:100%;display:flex;justify-content:center;margin-top:2.2rem;">
 						<button
 							style="background:#1a2233;color:#fff;font-weight:700;font-size:1.13rem;padding:0.8rem 2.5rem;border:none;border-radius:18px;cursor:pointer;box-shadow:0 2px 12px #0001;transition:background 0.15s, color 0.15s;letter-spacing:0.5px;"
